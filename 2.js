@@ -1,0 +1,1 @@
+document.write("This is a 2.js file.");
